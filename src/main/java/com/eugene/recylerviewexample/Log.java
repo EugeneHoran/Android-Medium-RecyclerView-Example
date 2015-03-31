@@ -10,15 +10,5 @@ public class Log {
     public void setItem(String strItem) {
         this.item = strItem;
     }
-
-    Log logs;
-
-    private void setLog(Log log) {
-        this.logs = log;
-    }
-
-    private Log getLog() {
-        return this.logs;
-    }
 }
 
