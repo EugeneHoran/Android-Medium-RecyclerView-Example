@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecylerView Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="menu">
+        <item>Delete</item>
+        <item>Do Nothing</item>
+    </string-array>
+</resources>
